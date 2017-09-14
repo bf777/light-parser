@@ -19,7 +19,7 @@ At the moment, if you type a word with repeated letters, you'll have to manually
 
 Acknowledgements
 ----------------
-This code was inspired by Elegoo's tutorial for the LED dot matrix parser, which can be found [here](http://www.elegoo.com/download/), under "Elegoo UNO R3 The Most Complete Starter Kit" (please be warned that the file containing the tutorial is 500+ MB).
+This code was inspired by Elegoo's tutorial for the LED dot matrix parser, which can be found [here](http://www.elegoo.com/download/), under "Elegoo UNO R3 The Most Complete Starter Kit" (please be warned that the file containing the tutorial is 500+ MB). At this time, some of the letters in ```BinaryDict``` are from the code in this file and may have rights held by Elegoo.
 
 
 
