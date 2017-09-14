@@ -15,7 +15,7 @@ Warnings
 --------
 The letters are **not pretty**. If you have better ideas for more elegant letters, open a pull request for the binary letters. Each 8-bit value covers one 8-LED row or column of your display; letters are currently max 5 rows tall.
 
-At the moment, if you type a word with repeated letters you'll have to manually delete the duplicate binary code from ```BinaryDict```.
+At the moment, if you type a word with repeated letters, you'll have to manually delete the duplicate binary code from ```BinaryDict```.
 
 Acknowledgements
 ----------------
