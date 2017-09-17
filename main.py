@@ -21,3 +21,4 @@ for char in InputString:
     if RowNo == 5: # Note that characters are drawn for a 5 x 7 matrix; increasing this WILL NOT increase character scale!
       print("delay(delaytime1);") 
       RowNo = 0
+# Copy and paste the output of this code into void loop() in the Arduino IDE.
